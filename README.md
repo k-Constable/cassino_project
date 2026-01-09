@@ -1,5 +1,5 @@
 # Cassino
-My project was to create the card Game Cassino (also spelled Casino) using the Javax Swing framework. Cassino is a card-game, in this case for 2 players, in which the goal is to gain points by collecing cards from the table.
+The project was to create the card Game Cassino (also spelled Casino) using the Javax Swing framework. Cassino is a card-game, in this case for 2 players, in which the goal is to gain points by collecing cards from the table.
 
 ## Rules of the card game
 Here is a thorough explanation of the rules from Britannica.com (https://www.britannica.com/topic/casino-card-game):
@@ -54,8 +54,7 @@ A window will pop up, asking for the value you are building towards. Write this 
 When the deck is empty and the last player card is played, the game will end and points will be displayed.
 
  ## Additional information about the project:
- My plan was for one player to be able to play against an AI opponent, but I spent too long making the game itself,
- so I ran out of time. 
+ My plan is for one player to be able to play against an AI opponent, this is currently a work in progress.
 
  Because of the amount of logic in the rules, and the way the hand's and table interact, the CassinoModel class contains a large amount of the code in this project, compared to the other classes. 
 
@@ -64,4 +63,5 @@ When the deck is empty and the last player card is played, the game will end and
  over I probably would have tried to write some of it in a seperate controller class.
  
  Here is a link to a video of a playthrough: https://youtu.be/eqf6mn3kJTs
+
 
