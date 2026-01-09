@@ -1,6 +1,9 @@
 # Cassino
 The project was to create the card Game Cassino (also spelled Casino) using the Javax Swing framework. Cassino is a card-game, in this case for 2 players, in which the goal is to gain points by collecing cards from the table.
 
+Inspiration and some concepts for this project, as well as the Card Images, come from this BlackJack project by https://github.com/ImKennyYip:
+https://github.com/ImKennyYip/black-jack
+
 ## Rules of the card game
 Here is a thorough explanation of the rules from Britannica.com (https://www.britannica.com/topic/casino-card-game):
 casino, card game for two to four players, best played with two. This is the ruleset I followed when writing the logic for the game.
@@ -63,5 +66,6 @@ When the deck is empty and the last player card is played, the game will end and
  over I probably would have tried to write some of it in a seperate controller class.
  
  Here is a link to a video of a playthrough: https://youtu.be/eqf6mn3kJTs
+
 
 
